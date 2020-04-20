@@ -1,0 +1,6 @@
+name: CustomTabList
+version: @version@
+main: dev.tebbe.customtablist.CustomTabList
+prefix: "[CustomTabList]"
+load: STARTUP
+description: This Plugin allows you to customize your TabList
